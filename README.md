@@ -1,4 +1,4 @@
-# Air France Internet Marketing: Optimizing Google, Yahoo!, MSN, and Kayak Sponsored Search (March, 2024)
+# Air France Internet Marketing: Optimizing Google, Yahoo!, MSN, and Kayak Sponsored Search (March 2024)
 
 ### Overview
 This case study is looking into the digital marketing strategies of Air France, focusing on their paid search campaigns. This project focuses on developing a predictive model using Python.
