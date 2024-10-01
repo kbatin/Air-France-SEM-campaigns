@@ -36,3 +36,6 @@ Recommendations for future campaign strategies based on data analysis.
 - Candidate Model Development and Final Model Selection: Comprehensive discussion of the model selection process.
 
 Check the [Model Development Project](https://github.com/kbatin/kbworks.github.io/blob/main/https://github.com/kbatin/Air-France-SEM-campaigns)
+
+
+<sub>This is a group project</sub>
