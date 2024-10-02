@@ -35,7 +35,7 @@ Recommendations for future campaign strategies based on data analysis.
 - Data Visualizations: Top three visualizations relevant to the final model.
 - Candidate Model Development and Final Model Selection: Comprehensive discussion of the model selection process.
 
-Check the [Model Development Project](https://github.com/kbatin/kbworks.github.io/blob/main/https://github.com/kbatin/Air-France-SEM-campaigns)
+Check the Model Development Project [here](https://github.com/kbatin/Air-France-SEM-campaigns/blob/main/Model%20Development%20in%20Python.ipynb).
 
 
 <sub>This is a group project.</sub>
